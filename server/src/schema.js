@@ -29,8 +29,4 @@ type Author {
 }
 `
 
-
-
-
-
 module.exports = typeDefs;
